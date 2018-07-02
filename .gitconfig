@@ -1,0 +1,16 @@
+[user]
+	name = Ikoma0324
+	email = qq2987315@gmail.com
+[color]
+	ui = true
+[alias]
+	a = add
+	b = branch
+	bd = branch -D
+	bl = branch -l
+	cm = commit -m
+	co = checkout
+        sb = show-branch
+	st = status
+	DP = /d/STM32F0xx_StdPeriph_Lib_V1.5.0/STM32F0xx_StdPeriph_Lib_V1.5.0/projects/MEOW
+
